@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "The PLT Framework"
+excerpt: "A great place to start to get an understanding of my work!<br/><img src='/images/plt-framework-heading-photo.png'>"
 collection: portfolio
 ---
 
