@@ -114,4 +114,4 @@ Here are the latest definitions of the PLT Framework. Please note that they have
 - Ex: sample activities, curricula, videos on specific/niche PLT applications
 
 ## The Technology Menu
-<img src='/images/tech-menu.png'>
+<img src='/images/tech-menu.png' alt="The Technology Menu prompts stylized as a table.">
