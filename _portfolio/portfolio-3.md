@@ -1,6 +1,6 @@
 ---
-title: "Modality in PLT Interactions and Problem-Solving"
-excerpt: "<br/><img src='/images/modality-heading-photo.png'>"
+title: "CODET: The Computing Online Database of Educational Technology"
+excerpt: "An ongoing PLT database project."
 collection: portfolio
 ---
 

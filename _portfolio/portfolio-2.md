@@ -1,7 +1,7 @@
 ---
-title: "CODET: The Computing Online Database of Educational Technology"
-excerpt: "An ongoing PLT database project."
+title: "Teacher Preparation in STEM+C Pedagogy"
+excerpt: "<br/><img src='/images/ci-students-sphero.jpg' width='500'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+I have deployed the PLT Framework in teacher preparation courses with both in-service and pre-service teachers in efforts to understand (1) how the teachers reflect on the properties of PLTs, and (2) how the framework helps teachers make those reflections. My most recent work yielded several design considerations regarding 26 distinct properties of PLTs identified by the teachers, showing the promise of the framework as an analytic tool. Teachers reported that the framework guided their thinking in making considerations they otherwise would not have (D.1, H.1). Refinement and continued testing of the PLT Framework is ongoing.

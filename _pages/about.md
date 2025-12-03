@@ -18,7 +18,7 @@ I earned my PhD in the [School of Interactive Computing](https://www.ic.gatech.e
 Interests
 -----
 * Computing Education
-* AI Education
+* AI & Robotics Education
 * Educational Technology
 
 Education
