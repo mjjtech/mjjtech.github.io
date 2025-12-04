@@ -1,7 +1,0 @@
----
-title: "Materiality in Interdisciplinary Computing Education"
-excerpt: "<br/><img src='/images/materiality-heading-photo.png' width='500'>"
-collection: portfolio
----
-
-As PLTs are often used in interdisciplinary learning environments that combine computing with other fields (e.g., STEM, art, athletics, etc.), my first aim seeks to understand how the material properties of PLTs supported students in learning across disciplines. I identify this feature as materiality, which describes the PLT’s tangible and intangible materials, their properties, and how those properties support the integration of other materials. Materiality is often what provides opportunities for personally meaningful making and can lead to students developing identities in both computing and other disciplines. For example, I co-facilitated an arts-computing program called CWP 2.0 where high-school students created interactive sculptures using a microcontroller kit and materials found within their homes. We found students’ making processes were heavily influenced by the materiality of the MCU kits in how they supported the integration of the “found” materials. Students described the materials as the driving force in their making processes and as a means to represent their ideas on society and technology (C.4).

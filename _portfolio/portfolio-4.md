@@ -1,8 +1,0 @@
----
-title: "Modality in PLT Interactions and Problem-Solving"
-excerpt: "<br/><img src='/images/modality-heading-photo.png' width='500'>"
-collection: portfolio
----
-
-My second aim explores the various forms of PLTs and their multiple means of interaction with learners. This feature, modality, fundamentally defines how learners engage with a PLT and, therefore, how they internalize computing concepts and make connections between their actions and the resulting PLT functions. Modality impacts how learners program, debug, and receive feedback from PLTs. This feature is also inherently tied to materiality as the materials that compose a PLT determine what interactions are possible. 
-I have studied the effects of modality on students’ computing conceptual knowledge in a programming course I developed for the BridgeUP STEM research internship program. Students’ level of understanding changed depending on their perceptions of the PLTs, which often were subject to the modality of their interactions. I discovered students struggled in how they recognized feedback and engaged in troubleshooting based on the modality of the PLTs.  From these findings, I created a list of recommended approaches to counter these challenges that emphasized the role and importance of modality (C.3). I later examined the effects of PLTs on participant confidence in their answers, correctness, and completion time when solving computing problems. Many students credited their experiences and problem-solving process to the modality of the PLTs, citing reliability, familiarity, and feedback as reasons for which PLTs they chose to use. These results further signified the importance of studying the impacts of modality across different PLTs (G.1).

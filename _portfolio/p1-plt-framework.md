@@ -4,8 +4,8 @@ excerpt: "A great place to start to get an understanding of my work!<br/><img sr
 collection: portfolio
 ---
 
-## Summary
-This project involves the development of a framework for classifying programmable learning technologies and critically thinking about how their features and resources affect learning and curriculum design. To view more about my studies involving the PLT Framework, see [Teacher Preparation in STEM+C Pedagogy](./portfolio-2.md).
+## Overview
+This project involves the development of a framework for classifying programmable learning technologies and critically thinking about how their features and resources affect learning and curriculum design. To view more about my studies involving the PLT Framework, see [Teacher Preparation in STEM+C Pedagogy](/portfolio/p2-stemc-teacher-prep).
 
 ### Hold on, what is a "programmable learning technology?"
 _Programmable learning technology_, or _PLT_, is my term for an interactive, educational technology tool that is used for learning computing concepts and programming. I use this broad definition in all of my work to be more inclusive of technologies that I might not know exist yet or that have yet to be used for educational purposes. This category includes tools such as:
@@ -29,7 +29,7 @@ I aim to serve teachers, students, and developers. For teachers, I provide pract
 The PLT Framework defines branching forms of **modality** and **materiality** for classifying PLTs' instructional properties. The framework challenges educators to critically think about how those properties affect learners’ experiences and their own teaching practice. It's design draws from other pedagogical frameworks (i.e., Triple-E, UDL4CS, POUR, and TPACK), as well as my own research and testing.
 
 ### Modality and Materiality?
-Yes, another two terms I've adopted to describe my work. Their definitions are below, but you can read more about where these definitions originated in my specific projects on [modality](portfolio-4.md) and [materiality](portfolio-5.md).
+Yes, another two terms I've adopted to describe my work. Their definitions are below, but you can read more about where these definitions originated in my specific projects on [modality](/portfolio/p4-modality) and [materiality](/portfolio/p5-materiality).
 
 ### So, about that framework...
 Right, right, of course. The framework consists mainly of two parts: (1) the definitions of modality, materiality, resources, and their subcomponents, and (2) a set of guiding prompts targeted at educators to consider how the PLT they are evaluating can and will be used within their learning environment. For ease of viewing, I've often formatted the prompts into a table called the "Technology Menu" because I themed it as if the educator is a food critic and the PLT is restaurant that they are "sampling" its properties at. That part is not required to use the framework, but it's more fun, right?
