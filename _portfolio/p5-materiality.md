@@ -1,6 +1,6 @@
 ---
 title: "Materiality in Interdisciplinary Computing Education"
-excerpt: "Projects that explored how PLTs aer used in creating interdisciplinary computational artifacts.<br/><img src='/images/materiality-heading-photo.png' width='500'>"
+excerpt: "Projects that explored how PLTs are used in creating interdisciplinary computational artifacts.<br/><img src='/images/materiality-heading-photo.png' width='500'>"
 collection: portfolio
 ---
 
