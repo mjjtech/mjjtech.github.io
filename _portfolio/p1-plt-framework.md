@@ -3,8 +3,10 @@ title: "Programmable Learning Technologies and the PLT Framework"
 excerpt: "A great place to start to get an understanding of my work!<br/><img src='/images/plt-framework-heading-photo.png' width='500' alt='Icons for modality, materiality, and resources of the PLT Framework.'>"
 collection: portfolio
 ---
-
 ## Overview
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nu8FC1QTPi4?si=NG2n0uAZTPHyv8gw" title="The PLT Framework - Overview (YouTube video player)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 This project involves the development of a framework for classifying programmable learning technologies and critically thinking about how their features and resources affect learning and curriculum design. To view more about my studies involving the PLT Framework, see [Teacher Preparation in STEM+C Pedagogy](/portfolio/p2-stemc-teacher-prep).
 
 ### Hold on, what is a "programmable learning technology?"
