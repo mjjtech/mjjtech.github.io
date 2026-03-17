@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Hello! 🤖
+# Hello!
 
 I am a postdoctoral research associate with the [CS Everyone Center for Computer Science Education](https://cseveryonecenter.org/) at the University of Florida.
 
