@@ -20,5 +20,5 @@ Participants reported that the framework guided their thinking in making conside
 This helped me to refine the PLT Framework for continued testing.
 
 ## Publications
-This study was submitted for publication at the 2026 International Conference of the Learning Sciences (ICLS 2026) and is currently under review.
+This study has been accepted for publication at the 2026 International Conference of the Learning Sciences (ICLS 2026) and will be presented in June 2026.
 Prior to this study, I tested an early version of the framework with in-service teachers and reported the results in a poster at the 2025 SIGCSE Technical Symposium.
