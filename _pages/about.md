@@ -15,6 +15,8 @@ I study how educational technology features and resources affect K--12 student l
 
 I earned my PhD in the [School of Interactive Computing](https://www.ic.gatech.edu/) at the Georgia Institute of Technology, where I was a member of the [Culture and Technology (CAT) Lab](https://betsydisalvo.com/).
 
+Later this fall, I will be joining North Carolina State University as an Assistant Professor of Computer Science Education. Stay tuned for more updates!
+
 Interests
 -----
 * Computing Education
