@@ -1,5 +1,5 @@
 ---
-title: "CODET: The Computing Online Database of Educational Technology"
+title: "CODET: The Computing Online Database of Educational Technologies"
 excerpt: "An ongoing PLT database project.<br/><img src='/images/codet-logo-fullcolor.png' width='500'>"
 collection: portfolio
 ---
