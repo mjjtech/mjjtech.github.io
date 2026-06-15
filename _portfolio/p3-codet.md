@@ -1,17 +1,20 @@
 ---
 title: "CODET: The Computing Online Database of Educational Technology"
-excerpt: "An ongoing PLT database project."
+excerpt: "An ongoing PLT database project.<br/><img src='/images/codet-logo-fullcolor.png' width='500'>"
 collection: portfolio
 ---
 
 ## Overview
-The **Computing Online Database of Educational Technologies** (**CODET**, pronounced _“code-it”_) is a repository of information for teachers seeking programmable learning technologies and curriculum to integrate into their practice.
-It is currently being developed as a practical tool that will help teachers with applying the [PLT Framework](/portfolio/p1-plt-framework) to their decision-making and help with widespread dissemination of PLT information.
 
-CODET includes entries on PLT features, classroom applications, curriculum activity examples with alignment to CS standards, and connections to resources.
-The PLT Framework serves as the backbone of what information is available in the database---i.e., CODET provides all the information a teacher would need to complete an evaluation led by the framework.
-CODET is being co-designed with undergraduate students and teachers, soliciting their feedback in its design, features, and usability.
-I am currently leading a design team of students in creating mockups for CODET based on teacher feedback and populating the database with PLT information.
-We expect to have a prototype by early 2026, followed by increasing amounts of widespread testing with local and state teachers and through partnerships with schools and universities around the country.
+[//]: # (The **Computing Online Database of Educational Technologies** &#40;**CODET**, pronounced _“code-it”_&#41; is a repository of information for teachers seeking programmable learning technologies and curriculum to integrate into their practice.)
+[//]: # (It is currently being developed as a practical tool that will help teachers with applying the [PLT Framework]&#40;/portfolio/p1-plt-framework&#41; to their decision-making and help with widespread dissemination of PLT information.)
+
+Since January of 2026, I have been leading a project team in developing **CODET: the Computing Online Database of Educational Technologies**. CODET (pronounced _“code-it”_) seeks to address the critical need for K-12 teacher support in integrating programmable learning technologies (PLTs) into computer science and STEM (collectively, STEM+C) learning environments. PLTs&mdash;computer science (CS) educational technologies that support learning about coding and computational principles&mdash;are widely used in STEM+C education as a fun and engaging way to introduce CS concepts to learners of all ages. These include physical computing kits, educational robotics, application and game making software, and many more physical and virtual tools that promote learning CS.
+
+While PLTs may be powerful tools for education, determining exactly which one works best for a given learning environment is not an easy task. These tools can vary by how learners interact with them, specifically in how they are programmed (i.e., coding modality) and how the user experiences feedback from them (i.e., feedback modality). There are also inherent implications about the tools themselves that need attention when used in these educational contexts, including their tangible and material properties, organizational layout, opportunities for personally meaningful making, and accessibility features. While these differences and the considerations they yield can be overwhelming for educators to navigate alone, they also provide a roadmap to classify and organize PLTs by their unique properties and what they bring to a learning environment.
+
+That is where CODET comes in. CODET was started to provide an easy-to-use, collated, high-quality resource for teachers seeking PLTs to consult with up-to-date information on the tools’ availability, interactions, examples of usage in classrooms from both peer-reviewed and public sources, and community applications. It consists of four main features. First, the PLT Library contains entries with descriptions of each PLT, its features and properties, application to CS and other fields, and more. Second, the Glossary includes detailed descriptions of terms used to classify the properties of PLTs that appear in the entries and other areas of CODET, allowing educators to learn specifically about how these properties influence learning. Third, the Curriculum Cache contains curricula and activities for using PLTs found in the database that align to national CS standards. Finally, the Suggestion Box allows educators to contribute to CODET by suggesting additional PLTs to be included, corrections or addendums to PLT, Glossary, or Curriculum entries, or entirely new features for CODET.
+
+As of now, the project team consists of myself and three undergraduate student researchers (known as the CODET Cadets). They have created over 30 PLT entries for the initial prototype database, with many more to be added in the future. As this project is meant to serve K-12 teachers and educators, the team has begun preparing a series of co-design research studies to ensure the design of CODET best serves those users. These include focus groups, 1-1 interviews, think-aloud sessions, and surveys that explore mock-up and prototype versions of CODET and question users on their thoughts and impressions of the database. Additional support is being provided by a web development specialist who is creating the prototype CODET website, and the CS Everyone Center graphics team who is creating CODET's branding graphics and guidelines. The team expects initial testing to begin in June 2026 and continue throughout the summer.
 
 Check back later for more updates!
